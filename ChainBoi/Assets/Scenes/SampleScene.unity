@@ -219,6 +219,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 1553682108}
+  spawnPointsParent: {fileID: 755989804}
+  player: {fileID: 1323751518}
+  spawnRadiusFromObj: 0
+  sightRadius: 0
+  validRadius: 0
 --- !u!4 &38955936
 Transform:
   m_ObjectHideFlags: 0
@@ -871,7 +876,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &755989805
 Transform:
   m_ObjectHideFlags: 0
