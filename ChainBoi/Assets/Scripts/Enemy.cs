@@ -64,6 +64,9 @@ public class Enemy : MonoBehaviour
             gameObject.tag = "Enemy";
             isFood = false;
         }
+        else if (other.tag == "Tail") {
+            Die();
+        }
     }
 
     void Food() { 
@@ -75,6 +78,7 @@ public class Enemy : MonoBehaviour
         transform.position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
     }
 
+    // called from player if this gameobject touches him
     public void Die() {
         Destroy(gameObject);
     }
