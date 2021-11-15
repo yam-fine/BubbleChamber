@@ -16,6 +16,7 @@ public class Enemy : MonoBehaviour
     private Transform closestTarget;
     float minDistFromOtherEnemy = 2; // minimum distance from another enemy in order to become an enemy
     bool toBeDeleted;
+    Animator anim;
     
     // Start is called before the first frame update
     void Start()
@@ -25,6 +26,8 @@ public class Enemy : MonoBehaviour
         closestTarget = FindClosestTarget();
         player.GetComponent<Player>().enemyDestroyedEvent.AddListener(EnemyKilledOrEaten);
         toBeDeleted = false;
+        anim = GetComponent<Animator>();
+        anim.SetBool("Food", true);
     }
 
     // Update is called once per frame
@@ -44,10 +47,12 @@ public class Enemy : MonoBehaviour
                 if (!toBeDeleted)
                     gameObject.tag = "Food";
                 isFood = true;
+                anim.SetBool("Food", true);
             }
         }
         gameObject.tag = "Food";
         isFood = true;
+        anim.SetBool("Food", true);
     }
     
     Transform FindClosestTarget()
@@ -79,12 +84,17 @@ public class Enemy : MonoBehaviour
     {
         if (other.tag == "Food" || other.tag == "Enemy")
         {
-            gameObject.tag = "Enemy";
-            isFood = false;
+            TurnToEnemy();
         }
         else if (other.tag == "Tail") {
             Die();
         }
+    }
+
+    void TurnToEnemy() {
+        gameObject.tag = "Enemy";
+        isFood = false;
+        anim.SetBool("Food", false);
     }
 
     void Food() {

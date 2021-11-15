@@ -1,7 +1,4 @@
 Base path: 'C:/Program Files/2020.3.21f1/Editor/Data', plugins path 'C:/Program Files/2020.3.21f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
 
-<<<<<<< HEAD
 Cmd: shutdown
-=======
->>>>>>> 6c0daae1e33d73500e6137850a23b8f30f6453f8

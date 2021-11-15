@@ -1,0 +1,3276 @@
+fileFormatVersion: 2
+guid: f38725ec781d848419541169f61521aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1313920708017124611
+    second: HeadAnimated3 (2)_0
+  - first:
+      213: 2509955522695738116
+    second: HeadAnimated3 (2)_1
+  - first:
+      213: 2025042051760770342
+    second: HeadAnimated3 (2)_2
+  - first:
+      213: -3461936646844688276
+    second: HeadAnimated3 (2)_3
+  - first:
+      213: -1480312712620155603
+    second: HeadAnimated3 (2)_4
+  - first:
+      213: -2329521596112603552
+    second: HeadAnimated3 (2)_5
+  - first:
+      213: -2803698171576248343
+    second: HeadAnimated3 (2)_6
+  - first:
+      213: -8174816685249977330
+    second: HeadAnimated3 (2)_7
+  - first:
+      213: 4350022186513443186
+    second: HeadAnimated3 (2)_8
+  - first:
+      213: 8556469527984328156
+    second: HeadAnimated3 (2)_9
+  - first:
+      213: -823983950640662794
+    second: HeadAnimated3 (2)_10
+  - first:
+      213: 2331869051311176372
+    second: HeadAnimated3 (2)_11
+  - first:
+      213: 3778898575743209466
+    second: HeadAnimated3 (2)_12
+  - first:
+      213: 2693395606026904094
+    second: HeadAnimated3 (2)_13
+  - first:
+      213: -4187087231698450323
+    second: HeadAnimated3 (2)_14
+  - first:
+      213: 1136107302829213282
+    second: HeadAnimated3 (2)_15
+  - first:
+      213: -449806991351696510
+    second: HeadAnimated3 (2)_16
+  - first:
+      213: 5349653138604507507
+    second: HeadAnimated3 (2)_17
+  - first:
+      213: 2192859008738505695
+    second: HeadAnimated3 (2)_18
+  - first:
+      213: 418579201680322718
+    second: HeadAnimated3 (2)_19
+  - first:
+      213: -1233503019335766348
+    second: HeadAnimated3 (2)_20
+  - first:
+      213: 6256825839988364006
+    second: HeadAnimated3 (2)_21
+  - first:
+      213: 4735947304067138814
+    second: HeadAnimated3 (2)_22
+  - first:
+      213: -7396063650007476802
+    second: HeadAnimated3 (2)_23
+  - first:
+      213: -8050635573527130484
+    second: HeadAnimated3 (2)_24
+  - first:
+      213: 7011226528572647790
+    second: HeadAnimated3 (2)_25
+  - first:
+      213: -2575282035362455013
+    second: HeadAnimated3 (2)_26
+  - first:
+      213: 3530074119597710328
+    second: HeadAnimated3 (2)_27
+  - first:
+      213: -3832142956249657555
+    second: HeadAnimated3 (2)_28
+  - first:
+      213: 1611153925469619396
+    second: HeadAnimated3 (2)_29
+  - first:
+      213: -7056119101711403168
+    second: HeadAnimated3 (2)_30
+  - first:
+      213: 5592975790311389358
+    second: HeadAnimated3 (2)_31
+  - first:
+      213: 8309590872071284999
+    second: HeadAnimated3 (2)_32
+  - first:
+      213: 2067883619459784557
+    second: HeadAnimated3 (2)_33
+  - first:
+      213: -4680230317205645986
+    second: HeadAnimated3 (2)_34
+  - first:
+      213: -4922061401055575154
+    second: HeadAnimated3 (2)_35
+  - first:
+      213: 2349013228601239554
+    second: HeadAnimated3 (2)_36
+  - first:
+      213: 8361671250115402404
+    second: HeadAnimated3 (2)_37
+  - first:
+      213: -4958414096046430974
+    second: HeadAnimated3 (2)_38
+  - first:
+      213: -3478778438430249674
+    second: HeadAnimated3 (2)_39
+  - first:
+      213: -963108706157023148
+    second: HeadAnimated3 (2)_40
+  - first:
+      213: -7717156805642077650
+    second: HeadAnimated3 (2)_41
+  - first:
+      213: -2643596498973677366
+    second: HeadAnimated3 (2)_42
+  - first:
+      213: 1515553551586517937
+    second: HeadAnimated3 (2)_43
+  - first:
+      213: -6886416582186182190
+    second: HeadAnimated3 (2)_44
+  - first:
+      213: -7947914542593553073
+    second: HeadAnimated3 (2)_45
+  - first:
+      213: 4516854232622078495
+    second: HeadAnimated3 (2)_46
+  - first:
+      213: 3671397918043393652
+    second: HeadAnimated3 (2)_47
+  - first:
+      213: -5457163138089124303
+    second: HeadAnimated3 (2)_48
+  - first:
+      213: -3635319079919110997
+    second: HeadAnimated3 (2)_49
+  - first:
+      213: 8982760749177781026
+    second: HeadAnimated3 (2)_50
+  - first:
+      213: -6858595168554747416
+    second: HeadAnimated3 (2)_51
+  - first:
+      213: -6393388955750320080
+    second: HeadAnimated3 (2)_52
+  - first:
+      213: 4796344641557363489
+    second: HeadAnimated3 (2)_53
+  - first:
+      213: -7114485121219071211
+    second: HeadAnimated3 (2)_54
+  - first:
+      213: 4150551620196227784
+    second: HeadAnimated3 (2)_55
+  - first:
+      213: -7675038967402186561
+    second: HeadAnimated3 (2)_56
+  - first:
+      213: -1103099715544936996
+    second: HeadAnimated3 (2)_57
+  - first:
+      213: -2685396345666795420
+    second: HeadAnimated3 (2)_58
+  - first:
+      213: -5133189922415030694
+    second: HeadAnimated3 (2)_59
+  - first:
+      213: 4652666611919065748
+    second: HeadAnimated3 (2)_60
+  - first:
+      213: 5511088332323162773
+    second: HeadAnimated3 (2)_61
+  - first:
+      213: -1954849737990542969
+    second: HeadAnimated3 (2)_62
+  - first:
+      213: 1010430663993514062
+    second: HeadAnimated3 (2)_63
+  - first:
+      213: 8690969292685047678
+    second: HeadAnimated3 (2)_64
+  - first:
+      213: -5268443697488165936
+    second: HeadAnimated3 (2)_65
+  - first:
+      213: 1844013039425205006
+    second: HeadAnimated3 (2)_66
+  - first:
+      213: -8665995919445371517
+    second: HeadAnimated3 (2)_67
+  - first:
+      213: -1962604851954028677
+    second: HeadAnimated3 (2)_68
+  - first:
+      213: -5144703116900119367
+    second: HeadAnimated3 (2)_69
+  - first:
+      213: -1084848412849158790
+    second: HeadAnimated3 (2)_70
+  - first:
+      213: -8152818442366917578
+    second: HeadAnimated3 (2)_71
+  - first:
+      213: 3067415310714965138
+    second: HeadAnimated3 (2)_72
+  - first:
+      213: -4562209257375805234
+    second: HeadAnimated3 (2)_73
+  - first:
+      213: 1933828938434489759
+    second: HeadAnimated3 (2)_74
+  - first:
+      213: -4749083327891433698
+    second: HeadAnimated3 (2)_75
+  - first:
+      213: 1048549634673974434
+    second: HeadAnimated3 (2)_76
+  - first:
+      213: -4765348843757451123
+    second: HeadAnimated3 (2)_77
+  - first:
+      213: 4409764093438051178
+    second: HeadAnimated3 (2)_78
+  - first:
+      213: 6752855237174616593
+    second: HeadAnimated3 (2)_79
+  - first:
+      213: -8646946181146436346
+    second: HeadAnimated3 (2)_80
+  - first:
+      213: 1867711414780512542
+    second: HeadAnimated3 (2)_81
+  - first:
+      213: -2091527532576148068
+    second: HeadAnimated3 (2)_82
+  - first:
+      213: -8217770186727848018
+    second: HeadAnimated3 (2)_83
+  - first:
+      213: 8192448737271346450
+    second: HeadAnimated3 (2)_84
+  - first:
+      213: -8990342829611571196
+    second: HeadAnimated3 (2)_85
+  - first:
+      213: 2772971537558264513
+    second: HeadAnimated3 (2)_86
+  - first:
+      213: -683502609901466753
+    second: HeadAnimated3 (2)_87
+  - first:
+      213: 7905362698297477528
+    second: HeadAnimated3 (2)_88
+  - first:
+      213: 3810241809009505548
+    second: HeadAnimated3 (2)_89
+  - first:
+      213: -4939126918824415393
+    second: HeadAnimated3 (2)_90
+  - first:
+      213: 6946122139245133107
+    second: HeadAnimated3 (2)_91
+  - first:
+      213: -6019291435399981355
+    second: HeadAnimated3 (2)_92
+  - first:
+      213: 2954768379263297340
+    second: HeadAnimated3 (2)_93
+  - first:
+      213: 7318132492946097029
+    second: HeadAnimated3 (2)_94
+  - first:
+      213: -7342604332678741839
+    second: HeadAnimated3 (2)_95
+  - first:
+      213: -6821302686178922224
+    second: HeadAnimated3 (2)_96
+  - first:
+      213: -3347828902324878054
+    second: HeadAnimated3 (2)_97
+  - first:
+      213: 3168303205134639433
+    second: HeadAnimated3 (2)_98
+  - first:
+      213: 2705390902480548296
+    second: HeadAnimated3 (2)_99
+  - first:
+      213: -4699562332815673199
+    second: HeadAnimated3 (2)_100
+  - first:
+      213: -1061425585610041819
+    second: HeadAnimated3 (2)_101
+  - first:
+      213: 6210151421583280734
+    second: HeadAnimated3 (2)_102
+  - first:
+      213: 2028425467375162879
+    second: HeadAnimated3 (2)_103
+  - first:
+      213: -1064019735497518842
+    second: HeadAnimated3 (2)_104
+  - first:
+      213: 5075793031800812356
+    second: HeadAnimated3 (2)_105
+  - first:
+      213: -7727596796557654647
+    second: HeadAnimated3 (2)_106
+  - first:
+      213: 8580032067770382924
+    second: HeadAnimated3 (2)_107
+  - first:
+      213: -6252318543506952886
+    second: HeadAnimated3 (2)_108
+  - first:
+      213: -1960227364261869950
+    second: HeadAnimated3 (2)_109
+  - first:
+      213: 428523587674419959
+    second: HeadAnimated3 (2)_110
+  - first:
+      213: 164686317176537532
+    second: HeadAnimated3 (2)_111
+  - first:
+      213: -7755848607987466484
+    second: HeadAnimated3 (2)_112
+  - first:
+      213: 8986734641491592302
+    second: HeadAnimated3 (2)_113
+  - first:
+      213: 195847626922946106
+    second: HeadAnimated3 (2)_114
+  - first:
+      213: -1784292893278039476
+    second: HeadAnimated3 (2)_115
+  - first:
+      213: 2301950457990038812
+    second: HeadAnimated3 (2)_116
+  - first:
+      213: -3426650319385180155
+    second: HeadAnimated3 (2)_117
+  - first:
+      213: -7467862371473982516
+    second: HeadAnimated3 (2)_118
+  - first:
+      213: -8365884683838387243
+    second: HeadAnimated3 (2)_119
+  - first:
+      213: -3298569566387380529
+    second: HeadAnimated3 (2)_120
+  - first:
+      213: -7296540978184393016
+    second: HeadAnimated3 (2)_121
+  - first:
+      213: -869490489498046631
+    second: HeadAnimated3 (2)_122
+  - first:
+      213: 8873006324792724580
+    second: HeadAnimated3 (2)_123
+  - first:
+      213: -5969053337467002175
+    second: HeadAnimated3 (2)_124
+  - first:
+      213: 715185306822247554
+    second: HeadAnimated3 (2)_125
+  - first:
+      213: -2059279210874703981
+    second: HeadAnimated3 (2)_126
+  - first:
+      213: -6427039242807819932
+    second: HeadAnimated3 (2)_127
+  - first:
+      213: -5605507936371141388
+    second: HeadAnimated3 (2)_128
+  - first:
+      213: 5459936462434626897
+    second: HeadAnimated3 (2)_129
+  - first:
+      213: -7084957457658395239
+    second: HeadAnimated3 (2)_130
+  - first:
+      213: -1977878841256896847
+    second: HeadAnimated3 (2)_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa0c97d31404cde0800000000000000
+      internalID: -1313920708017124611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4033f44ef3725d220800000000000000
+      internalID: 2509955522695738116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dcd6654056a1c10800000000000000
+      internalID: 2025042051760770342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c685ae936fab4ffc0800000000000000
+      internalID: -3461936646844688276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_4
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dd7cf4e6fd47be0800000000000000
+      internalID: -1480312712620155603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_5
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0667b1f5370ebafd0800000000000000
+      internalID: -2329521596112603552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_6
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e719c91e534719d0800000000000000
+      internalID: -2803698171576248343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e042dbb69873d8e80800000000000000
+      internalID: -8174816685249977330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_8
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279a33891226e5c30800000000000000
+      internalID: 4350022186513443186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_9
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddc5fa93bfaeb670800000000000000
+      internalID: 8556469527984328156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_10
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6b07966fe9094f0800000000000000
+      internalID: -823983950640662794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_11
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 2277.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba31222c867c5020800000000000000
+      internalID: 2331869051311176372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff4761bb38517430800000000000000
+      internalID: 3778898575743209466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12e4d0980dd06520800000000000000
+      internalID: 2693395606026904094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d684a0fc85a74e5c0800000000000000
+      internalID: -4187087231698450323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_15
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266ccd3929344cf00800000000000000
+      internalID: 1136107302829213282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_16
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283befeace6f1c9f0800000000000000
+      internalID: -449806991351696510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_17
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37143169f29cd3a40800000000000000
+      internalID: 5349653138604507507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_18
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3bf5276a99e6e10800000000000000
+      internalID: 2192859008738505695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_19
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90b582f0971fc500800000000000000
+      internalID: 418579201680322718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_20
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beae1f0a87b1eee0800000000000000
+      internalID: -1233503019335766348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_21
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2ddfd83f5b4d650800000000000000
+      internalID: 6256825839988364006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_22
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef404ed1bf679b140800000000000000
+      internalID: 4735947304067138814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_23
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 2050.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5102ddb47eb5990800000000000000
+      internalID: -7396063650007476802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ecac79995664090800000000000000
+      internalID: -8050635573527130484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e692e537161ec4160800000000000000
+      internalID: 7011226528572647790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_26
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12a6cd12a2c24cd0800000000000000
+      internalID: -2575282035362455013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_27
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbdb6965b75df030800000000000000
+      internalID: 3530074119597710328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_28
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f493ce84e71dac0800000000000000
+      internalID: -3832142956249657555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_29
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4c71e75f7fb5610800000000000000
+      internalID: 1611153925469619396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_30
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067b4a9df01a31e90800000000000000
+      internalID: -7056119101711403168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_31
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8bed239dd3e9d40800000000000000
+      internalID: 5592975790311389358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_32
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70923ae3fd8915370800000000000000
+      internalID: 8309590872071284999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_33
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fdfbe123992bc10800000000000000
+      internalID: 2067883619459784557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_34
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5591fbc25b7c0fb0800000000000000
+      internalID: -4680230317205645986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_35
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 1823.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83cb63eb3351bbb0800000000000000
+      internalID: -4922061401055575154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2086877f51f599020800000000000000
+      internalID: 2349013228601239554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa99bf23bf9a0470800000000000000
+      internalID: 8361671250115402404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_38
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205ecd386ac203bb0800000000000000
+      internalID: -4958414096046430974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_39
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da31d0175e8bfc0800000000000000
+      internalID: -3478778438430249674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_40
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450bc690cb952a2f0800000000000000
+      internalID: -963108706157023148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_41
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a37b3c5c627e490800000000000000
+      internalID: -7717156805642077650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_42
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac825359dfe005bd0800000000000000
+      internalID: -2643596498973677366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_43
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b36568ece3580510800000000000000
+      internalID: 1515553551586517937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_44
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9de63ba988e60a0800000000000000
+      internalID: -6886416582186182190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_45
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dcc8755d553b190800000000000000
+      internalID: -7947914542593553073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_46
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a98a54ef61fae30800000000000000
+      internalID: 4516854232622078495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_47
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 1596.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ec51e54fc63f230800000000000000
+      internalID: 3671397918043393652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e77d80a034444b0800000000000000
+      internalID: -5457163138089124303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4b83cbe80cc8dc0800000000000000
+      internalID: -3635319079919110997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_50
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b30150f4d29ac70800000000000000
+      internalID: 8982760749177781026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_51
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e97518580061d0a0800000000000000
+      internalID: -6858595168554747416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_52
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038b89d4e9e1647a0800000000000000
+      internalID: -6393388955750320080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_53
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bff541a0a009240800000000000000
+      internalID: 4796344641557363489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_54
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5137fe5f975444d90800000000000000
+      internalID: -7114485121219071211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_55
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cad7bf35b8b99930800000000000000
+      internalID: 4150551620196227784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_56
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb836b629b8cc7590800000000000000
+      internalID: -7675038967402186561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_57
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd0c1737a001b0f0800000000000000
+      internalID: -1103099715544936996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_58
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468066f504e8bbad0800000000000000
+      internalID: -2685396345666795420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_59
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 1369.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e46dd56fe33c8b0800000000000000
+      internalID: -5133189922415030694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49291c5f1a7919040800000000000000
+      internalID: 4652666611919065748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_61
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a0ce5a3a15b7c40800000000000000
+      internalID: 5511088332323162773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_62
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789eec1458afed4e0800000000000000
+      internalID: -1954849737990542969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_63
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48de7dd555c50e00800000000000000
+      internalID: 1010430663993514062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_64
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77f15466868c9870800000000000000
+      internalID: 8690969292685047678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_65
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3821cde5ab2e6b0800000000000000
+      internalID: -5268443697488165936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_66
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03b020e610479910800000000000000
+      internalID: 1844013039425205006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_67
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385597c20a23cb780800000000000000
+      internalID: -8665995919445371517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_68
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f62d4194d63c4e0800000000000000
+      internalID: -1962604851954028677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_69
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc252e5c75a98b0800000000000000
+      internalID: -5144703116900119367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_70
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75caf4cd18d1f0f0800000000000000
+      internalID: -1084848412849158790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_71
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 1142.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634677872de5bde80800000000000000
+      internalID: -8152818442366917578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c82c529f5a19a20800000000000000
+      internalID: 3067415310714965138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_73
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0dd1f1ad6cfa0c0800000000000000
+      internalID: -4562209257375805234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_74
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d22c37c2756da10800000000000000
+      internalID: 1933828938434489759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_75
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e171d4000edd71eb0800000000000000
+      internalID: -4749083327891433698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_76
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac9b1856523d8e00800000000000000
+      internalID: 1048549634673974434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_77
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88c40979741eddb0800000000000000
+      internalID: -4765348843757451123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_78
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63c5ac3411a23d30800000000000000
+      internalID: 4409764093438051178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_79
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112ed6f5f06f6bd50800000000000000
+      internalID: 6752855237174616593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_80
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d98d00340eff780800000000000000
+      internalID: -8646946181146436346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_81
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e194fecd2a17be910800000000000000
+      internalID: 1867711414780512542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_82
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9579de5ac669f2e0800000000000000
+      internalID: -2091527532576148068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_83
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 915.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea78a460e8d94fd80800000000000000
+      internalID: -8217770186727848018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f7a998bc61b170800000000000000
+      internalID: 8192448737271346450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_85
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408a50054d2eb3380800000000000000
+      internalID: -8990342829611571196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_86
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cadd6cebe29b7620800000000000000
+      internalID: 2772971537558264513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_87
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b45c56ff5b386f0800000000000000
+      internalID: -683502609901466753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_88
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89905ac5d7d75bd60800000000000000
+      internalID: 7905362698297477528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_89
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c057a5edcb2b0e430800000000000000
+      internalID: 3810241809009505548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_90
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fa6e66c32b47bb0800000000000000
+      internalID: -4939126918824415393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_91
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dbe249845956060800000000000000
+      internalID: 6946122139245133107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_92
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6de61c45e277ca0800000000000000
+      internalID: -6019291435399981355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_93
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37ab879f22710920800000000000000
+      internalID: 2954768379263297340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_94
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583cb4daaba3f8560800000000000000
+      internalID: 7318132492946097029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_95
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 688.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b080702344d91a90800000000000000
+      internalID: -7342604332678741839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01133e4095dd551a0800000000000000
+      internalID: -6821302686178922224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_97
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c324d95f1a81d0800000000000000
+      internalID: -3347828902324878054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_98
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94128ca8af218fb20800000000000000
+      internalID: 3168303205134639433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_99
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c13de821ba7b8520800000000000000
+      internalID: 2705390902480548296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_100
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19837b825fcc7ceb0800000000000000
+      internalID: -4699562332815673199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_101
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d336bd0f0541f0800000000000000
+      internalID: -1061425585610041819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_102
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5acbdca0d3ee2650800000000000000
+      internalID: 6210151421583280734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_103
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5904c273a662c10800000000000000
+      internalID: 2028425467375162879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_104
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6015aaf10b7db31f0800000000000000
+      internalID: -1064019735497518842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_105
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443f3e5aed6d07640800000000000000
+      internalID: 5075793031800812356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_106
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9850cb5f7af02c490800000000000000
+      internalID: -7727596796557654647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_107
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 461.2727
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4af9e8e4b5621770800000000000000
+      internalID: 8580032067770382924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d2eaf296d4b39a0800000000000000
+      internalID: -6252318543506952886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_109
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286cb22199fdbc4e0800000000000000
+      internalID: -1960227364261869950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_110
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2b53dbeeb62f500800000000000000
+      internalID: 428523587674419959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_111
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1ccaa3555194200800000000000000
+      internalID: 164686317176537532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_112
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff23588c0bd5490800000000000000
+      internalID: -7755848607987466484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_113
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64cdccea8b47bc70800000000000000
+      internalID: 8986734641491592302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_114
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e68d8016ac7b200800000000000000
+      internalID: 195847626922946106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_115
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4298e0311bec37e0800000000000000
+      internalID: -1784292893278039476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_116
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c154b0bcebb22ff10800000000000000
+      internalID: 2301950457990038812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_117
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508419f80b71270d0800000000000000
+      internalID: -3426650319385180155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_118
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb79c45db2dc5890800000000000000
+      internalID: -7467862371473982516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_119
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 234.27272
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db8ee3543866eb80800000000000000
+      internalID: -8365884683838387243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fced098b4702932d0800000000000000
+      internalID: -3298569566387380529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_121
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceec3a93aa7dba90800000000000000
+      internalID: -7296540978184393016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_122
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f63eda103fee3f0800000000000000
+      internalID: -869490489498046631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_123
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c801fbd30432b70800000000000000
+      internalID: 8873006324792724580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_124
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c26bee6d99a92da0800000000000000
+      internalID: -5969053337467002175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_125
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28408b15f39dce900800000000000000
+      internalID: 715185306822247554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_126
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f677ed778fb63e0800000000000000
+      internalID: -2059279210874703981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_127
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461c1fe4cd19ec6a0800000000000000
+      internalID: -6427039242807819932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_128
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f417fa2b3c3532b0800000000000000
+      internalID: -5605507936371141388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_129
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6e9bd84795cb40800000000000000
+      internalID: 5459936462434626897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_130
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995448fdabc2dad90800000000000000
+      internalID: -7084957457658395239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadAnimated3 (2)_131
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 7.2727203
+        width: 227.75
+        height: 227.72728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b61f125ca92d84e0800000000000000
+      internalID: -1977878841256896847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -18,11 +18,13 @@ public class Player : MonoBehaviour
     public UnityEvent enemyDestroyedEvent;
 
     Rigidbody2D rb;
+    Animator anim;
     float hori, verti;
     float tipMass = 1;
     int tailLen = 0;
     float shakeTime = .2f;
     CinemachineBasicMultiChannelPerlin vcamMCP;
+    float timeDelay = 1f;
 
     static Player instance;
     public static Player Instance {
@@ -40,6 +42,8 @@ public class Player : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         tailTip = transform;
         vcamMCP = vcam.GetCinemachineComponent<CinemachineBasicMultiChannelPerlin>();
+        anim = GetComponent<Animator>();
+        anim.SetBool("explode", false);
     }
 
     private void FixedUpdate() {
@@ -57,7 +61,8 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision) {
         if (collision.tag == "Enemy") {
-            Die();
+            //StartCoroutine(ScaleUp());
+            anim.SetBool("explode", true);
         }
         else if(collision.tag == "Food") {
             GameManager.IncScore();
@@ -67,8 +72,26 @@ public class Player : MonoBehaviour
         }
     }
 
-    void Die() { // todo : Save score if it's the highest
-                 // todo : add a msg
+    //IEnumerator ScaleUp() {
+    //    float vel = 0.0f;
+    //    while (true) {
+    //        float newpos = Vector2.SmoothDamp(transform.localScale, transform.localScale * 2, ref vel, 0.3f);
+    //        transform.position = new Vector3(transform.position.x, newpos, transform.position.z);
+    //        yield return new WaitForEndOfFrame();
+    //    }
+    //}
+
+    public void Die() { // todo : Save score if it's the highest
+                        // todo : add a 
+        StartCoroutine(DeadDelay());
+    }
+
+    IEnumerator DeadDelay() {
+        float time = 0;
+        while (time < timeDelay) {
+            time += Time.deltaTime;
+            yield return new WaitForEndOfFrame();
+        }
         SceneManager.LoadScene("MainMenu");
     }
 

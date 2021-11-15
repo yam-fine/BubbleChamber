@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 44b6a682db7558449a9b8ce635dd9846
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2486569379907124409
+    second: Tail_Good_1_0
+  - first:
+      213: -1393416199862526142
+    second: Tail_Good_1_1
+  - first:
+      213: -1488376785989806632
+    second: Tail_Good_1_2
+  - first:
+      213: -1025323983916479566
+    second: Tail_Good_1_3
+  - first:
+      213: 4992415129394525420
+    second: Tail_Good_1_4
+  - first:
+      213: 7636039618659127951
+    second: Tail_Good_1_5
+  - first:
+      213: 4671499334297576009
+    second: Tail_Good_1_6
+  - first:
+      213: 9195223390221921005
+    second: Tail_Good_1_7
+  - first:
+      213: -210113358552607806
+    second: Tail_Good_1_8
+  - first:
+      213: -4347318786253432114
+    second: Tail_Good_1_9
+  - first:
+      213: 4594185194162158915
+    second: Tail_Good_1_10
+  - first:
+      213: -6298178774273476302
+    second: Tail_Good_1_11
+  - first:
+      213: 4696808931744048258
+    second: Tail_Good_1_12
+  - first:
+      213: -9062380706152801219
+    second: Tail_Good_1_13
+  - first:
+      213: 5366978704499237145
+    second: Tail_Good_1_14
+  - first:
+      213: 6964361252609663604
+    second: Tail_Good_1_15
+  - first:
+      213: 6208047318060673627
+    second: Tail_Good_1_16
+  - first:
+      213: 6806441989133132075
+    second: Tail_Good_1_17
+  - first:
+      213: 7338864591870571543
+    second: Tail_Good_1_18
+  - first:
+      213: -4613696316482853641
+    second: Tail_Good_1_19
+  - first:
+      213: 9025036558987823031
+    second: Tail_Good_1_20
+  - first:
+      213: 3980911199553136107
+    second: Tail_Good_1_21
+  - first:
+      213: 4623568582721738730
+    second: Tail_Good_1_22
+  - first:
+      213: -8291381671123258191
+    second: Tail_Good_1_23
+  - first:
+      213: -2056252554048922084
+    second: Tail_Good_1_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tail_Good_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2218.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc3ab63da1128220800000000000000
+      internalID: 2486569379907124409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2218.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f5bee495799ace0800000000000000
+      internalID: -1393416199862526142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_2
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2218.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d32be239385be0800000000000000
+      internalID: -1488376785989806632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_3
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2218.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb48fed44155c1f0800000000000000
+      internalID: -1025323983916479566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_4
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2218.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4b8d6fb1f984540800000000000000
+      internalID: 4992415129394525420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f829cf06399a8f960800000000000000
+      internalID: 7636039618659127951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1664.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942e745d4ef74d040800000000000000
+      internalID: 4671499334297576009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_7
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1664.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea6a8c74fefb9f70800000000000000
+      internalID: 9195223390221921005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_8
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1664.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c358ec7307851df0800000000000000
+      internalID: -210113358552607806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_9
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1664.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca5bf3d8983ba3c0800000000000000
+      internalID: -4347318786253432114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34df462d713d1cf30800000000000000
+      internalID: 4594185194162158915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1110.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239368326cf5898a0800000000000000
+      internalID: -6298178774273476302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_12
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1110.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2846c72b6da6e2140800000000000000
+      internalID: 4696808931744048258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_13
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1110.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c986623c4fb3280800000000000000
+      internalID: -9062380706152801219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_14
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1110.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91163ce32b65b7a40800000000000000
+      internalID: 5366978704499237145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4722b4519a166a060800000000000000
+      internalID: 6964361252609663604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_16
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 556.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aa2d5e42a672650800000000000000
+      internalID: 6208047318060673627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_17
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 556.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2165925de6557e50800000000000000
+      internalID: 6806441989133132075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_18
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 556.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714332d9672e8d560800000000000000
+      internalID: 7338864591870571543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_19
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 556.4
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4e28205abd8ffb0800000000000000
+      internalID: -4613696316482853641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.4000244
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b702670fee5f3d70800000000000000
+      internalID: 9025036558987823031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2.4000244
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be52dbbe4a90f3730800000000000000
+      internalID: 3980911199553136107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_22
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2.4000244
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae719c711273a2040800000000000000
+      internalID: 4623568582721738730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_23
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2.4000244
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4738bbc481fec80800000000000000
+      internalID: -8291381671123258191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_1_24
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2.4000244
+        width: 546.6
+        height: 554.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e9c635239b673e0800000000000000
+      internalID: -2056252554048922084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

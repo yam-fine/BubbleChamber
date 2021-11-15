@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5965244126513376273}
   - component: {fileID: -7006498688196434853}
   - component: {fileID: 2349887892051192285}
-  - component: {fileID: 5196721007805352500}
+  - component: {fileID: -6145497580905526581}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Food
@@ -30,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 6869252197345452401}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -2.31, y: -2.02, z: -0.23899648}
-  m_LocalScale: {x: 5, y: 5, z: 5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2575162121733844496}
   m_Father: {fileID: 0}
@@ -76,13 +76,13 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -4946184166906307162, guid: 9a1f85044ecfa954892d0656cee5c27d,
+  m_Sprite: {fileID: 2486569379907124409, guid: 44b6a682db7558449a9b8ce635dd9846,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.2, y: 0.2}
+  m_Size: {x: 5.466, y: 5.5472584}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -135,10 +135,10 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.047369838, y: -0.060000002}
   serializedVersion: 2
-  m_Radius: 0.1
---- !u!95 &5196721007805352500
+  m_Radius: 0.38579452
+--- !u!95 &-6145497580905526581
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 0
@@ -148,7 +148,7 @@ Animator:
   m_GameObject: {fileID: 6869252197345452401}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e51ca50c7bbf2b543b425300bb525964, type: 2}
+  m_Controller: {fileID: 9100000, guid: 1daf40a1b54953947b711cac7ce7b142, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -201,6 +201,6 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.074739724}
   serializedVersion: 2
-  m_Radius: 0.1
+  m_Radius: 0.35526028
