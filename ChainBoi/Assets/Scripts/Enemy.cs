@@ -15,6 +15,7 @@ public class Enemy : MonoBehaviour
     private bool isFood = true;
     private Transform closestTarget;
     float minDistFromOtherEnemy = 2; // minimum distance from another enemy in order to become an enemy
+    bool toBeDeleted;
     
     // Start is called before the first frame update
     void Start()
@@ -23,6 +24,7 @@ public class Enemy : MonoBehaviour
         player = Player.Instance.transform;
         closestTarget = FindClosestTarget();
         player.GetComponent<Player>().enemyDestroyedEvent.AddListener(EnemyKilledOrEaten);
+        toBeDeleted = false;
     }
 
     // Update is called once per frame
@@ -36,12 +38,11 @@ public class Enemy : MonoBehaviour
 
     // called when any enemy has been killed or eaten
     void EnemyKilledOrEaten() {
-        Debug.Log("lol");
         closestTarget = FindClosestTarget();
         float dist = Vector2.Distance(transform.position, closestTarget.position);
         if (dist > minDistFromOtherEnemy) {
-            Debug.Log("olo");
-            gameObject.tag = "Food";
+            if (!toBeDeleted)
+                gameObject.tag = "Food";
             isFood = true;
         }
     }
@@ -52,6 +53,7 @@ public class Enemy : MonoBehaviour
         Transform closestTarget = null;
         GameObject[] allFood = GameObject.FindGameObjectsWithTag("Food");
         GameObject[] allEnems = GameObject.FindGameObjectsWithTag("Enemy");
+        Debug.Log(allEnems.Length + allFood.Length);
         GameObject[] allTargets = allFood.Concat(allEnems).ToArray();
 
         foreach (GameObject targ in allTargets)
@@ -83,9 +85,10 @@ public class Enemy : MonoBehaviour
         }
     }
 
-    void Food() { 
+    void Food() {
         //todo : we might want different values of speed on each level.
-        transform.position = Vector2.Lerp(transform.position, closestTarget.position,  speed * Time.deltaTime);
+        if (closestTarget != null)
+            transform.position = Vector2.Lerp(transform.position, closestTarget.position, speed * Time.deltaTime);
     }
 
     void Enemyy() {
@@ -94,6 +97,8 @@ public class Enemy : MonoBehaviour
 
     // called from player if this gameobject touches him
     public void Die() {
+        toBeDeleted = true;
+        gameObject.tag = "Untagged";
         player.GetComponent<Player>().enemyDestroyedEvent.Invoke();
         Destroy(gameObject);
     }
