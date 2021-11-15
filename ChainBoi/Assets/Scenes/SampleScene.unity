@@ -1105,7 +1105,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 94d66126fdf697641b1da2e226e80735, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 20000
+  speed: 10000
   tailPiecePrefab: {fileID: 143993278300648456, guid: f7a00caeeb8c22647a41c406da2c2760,
     type: 3}
   tailTip: {fileID: 1323751518}
