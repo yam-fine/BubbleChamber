@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5965244126513376273}
   - component: {fileID: -7006498688196434853}
   - component: {fileID: 2349887892051192285}
+  - component: {fileID: 5196721007805352500}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Food
@@ -29,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 6869252197345452401}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -2.31, y: -2.02, z: -0.23899648}
-  m_LocalScale: {x: 3, y: 3, z: 3}
+  m_LocalScale: {x: 5, y: 5, z: 5}
   m_Children:
   - {fileID: 2575162121733844496}
   m_Father: {fileID: 0}
@@ -75,7 +76,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  m_Sprite: {fileID: -4946184166906307162, guid: 9a1f85044ecfa954892d0656cee5c27d,
+    type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -120,8 +122,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0.1
-  eatScore: 100
-  killScore: 5
 --- !u!58 &2349887892051192285
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -138,6 +138,25 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.1
+--- !u!95 &5196721007805352500
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6869252197345452401}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e51ca50c7bbf2b543b425300bb525964, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &7543603418800089695
 GameObject:
   m_ObjectHideFlags: 0
