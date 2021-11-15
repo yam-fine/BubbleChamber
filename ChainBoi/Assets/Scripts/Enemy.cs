@@ -39,12 +39,15 @@ public class Enemy : MonoBehaviour
     // called when any enemy has been killed or eaten
     void EnemyKilledOrEaten() {
         closestTarget = FindClosestTarget();
-        float dist = Vector2.Distance(transform.position, closestTarget.position);
-        if (dist > minDistFromOtherEnemy) {
-            if (!toBeDeleted)
-                gameObject.tag = "Food";
-            isFood = true;
+        if (closestTarget != null) {
+            if (Vector2.Distance(transform.position, closestTarget.position) > minDistFromOtherEnemy) {
+                if (!toBeDeleted)
+                    gameObject.tag = "Food";
+                isFood = true;
+            }
         }
+        gameObject.tag = "Food";
+        isFood = true;
     }
     
     Transform FindClosestTarget()
@@ -53,7 +56,6 @@ public class Enemy : MonoBehaviour
         Transform closestTarget = null;
         GameObject[] allFood = GameObject.FindGameObjectsWithTag("Food");
         GameObject[] allEnems = GameObject.FindGameObjectsWithTag("Enemy");
-        Debug.Log(allEnems.Length + allFood.Length);
         GameObject[] allTargets = allFood.Concat(allEnems).ToArray();
 
         foreach (GameObject targ in allTargets)
