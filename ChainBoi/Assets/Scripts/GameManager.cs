@@ -15,8 +15,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] public float sightRadius; // radius to disable spawns.
     [SerializeField] public float validRadius; // limit radius from player to spawn.
     
-    private static TextMeshProUGUI uiscore;
-    public static int score;
+    private static TextMeshProUGUI uiscore; // CHANGE FROM STATIC
+    public static int score; // CHANGE FROM STATIC
     private STAGE gameStage;
     private bool[] spawnsOnBoard;
     

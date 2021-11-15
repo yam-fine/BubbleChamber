@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Cinemachine;
+using UnityEngine.Events;
 
 public class Player : MonoBehaviour
 {
@@ -10,11 +12,17 @@ public class Player : MonoBehaviour
     [SerializeField] Transform tailTip;
     [SerializeField] float distanceBetweenTails = 0;
     [SerializeField] float defaultMass = 1, defaultDrag = 2, tipDrag = 0;
-    
+    [SerializeField] CinemachineVirtualCamera vcam;
+    [SerializeField] float shakeIntensity;
+
+    public UnityEvent enemyDestroyedEvent;
+
     Rigidbody2D rb;
     float hori, verti;
     float tipMass = 1;
     int tailLen = 0;
+    float shakeTime = .2f;
+    CinemachineBasicMultiChannelPerlin vcamMCP;
 
     static Player instance;
     public static Player Instance {
@@ -31,6 +39,7 @@ public class Player : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         tailTip = transform;
+        vcamMCP = vcam.GetCinemachineComponent<CinemachineBasicMultiChannelPerlin>();
     }
 
     private void FixedUpdate() {
@@ -52,6 +61,7 @@ public class Player : MonoBehaviour
         }
         else if(collision.tag == "Food") {
             GameManager.IncScore();
+            enemyDestroyedEvent.Invoke();
             Grow();
             collision.GetComponent<Enemy>().Die();
         }
@@ -63,6 +73,7 @@ public class Player : MonoBehaviour
     }
 
     void Grow() {
+        StartCoroutine(Shake());
         tailLen++;
         Vector3 pos = new Vector3(tailTip.position.x, tailTip.position.y - distanceBetweenTails, tailTip.position.z);
         GameObject newTip = Instantiate(tailPiecePrefab, pos, tailTip.rotation, transform);
@@ -80,5 +91,15 @@ public class Player : MonoBehaviour
         tipMass = tailLen / 2;
         tailRb.mass = tipMass;
         tailRb.drag = tipDrag;
+    }
+
+    IEnumerator Shake() {
+        float timePassed = 0;
+        vcamMCP.m_AmplitudeGain = shakeIntensity;
+        while (timePassed < shakeTime) {
+            timePassed += Time.deltaTime;
+            yield return new WaitForEndOfFrame();
+        }
+        vcamMCP.m_AmplitudeGain = 0;
     }
 }

@@ -1,7 +1,112 @@
 fileFormatVersion: 2
 guid: 9a1f85044ecfa954892d0656cee5c27d
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4946184166906307162
+    second: Tail_Good_Evil_0
+  - first:
+      213: 6898539372422422849
+    second: Tail_Good_Evil_1
+  - first:
+      213: 1081572761471487450
+    second: Tail_Good_Evil_2
+  - first:
+      213: 7323001619375661665
+    second: Tail_Good_Evil_3
+  - first:
+      213: -6110128801234356156
+    second: Tail_Good_Evil_4
+  - first:
+      213: 6124862811512118948
+    second: Tail_Good_Evil_5
+  - first:
+      213: 1149557587620820187
+    second: Tail_Good_Evil_6
+  - first:
+      213: -1974541294927196302
+    second: Tail_Good_Evil_7
+  - first:
+      213: -5772626790336961115
+    second: Tail_Good_Evil_8
+  - first:
+      213: 6195755734939999573
+    second: Tail_Good_Evil_9
+  - first:
+      213: 5400279916154171174
+    second: Tail_Good_Evil_10
+  - first:
+      213: 5783069585344939416
+    second: Tail_Good_Evil_11
+  - first:
+      213: -3311499463651386901
+    second: Tail_Good_Evil_12
+  - first:
+      213: 3121124269167188201
+    second: Tail_Good_Evil_13
+  - first:
+      213: 5144327850926556304
+    second: Tail_Good_Evil_14
+  - first:
+      213: 6916030656280610937
+    second: Tail_Good_Evil_15
+  - first:
+      213: 2295828996290099366
+    second: Tail_Good_Evil_16
+  - first:
+      213: -8129329371997764507
+    second: Tail_Good_Evil_17
+  - first:
+      213: -6400553056686527622
+    second: Tail_Good_Evil_18
+  - first:
+      213: 6595869831313655983
+    second: Tail_Good_Evil_19
+  - first:
+      213: 2148507830740764876
+    second: Tail_Good_Evil_20
+  - first:
+      213: 1874754877615853999
+    second: Tail_Good_Evil_21
+  - first:
+      213: 2307595369726650563
+    second: Tail_Good_Evil_22
+  - first:
+      213: 7613490751633897096
+    second: Tail_Good_Evil_23
+  - first:
+      213: -6375263604958104177
+    second: Tail_Good_Evil_24
+  - first:
+      213: 7162104182339144706
+    second: Tail_Good_Evil_25
+  - first:
+      213: -6333735921296542635
+    second: Tail_Good_Evil_26
+  - first:
+      213: 3737683739043814256
+    second: Tail_Good_Evil_27
+  - first:
+      213: 1649192253488221356
+    second: Tail_Good_Evil_28
+  - first:
+      213: -4819326856874342656
+    second: Tail_Good_Evil_29
+  - first:
+      213: 1668177826756797768
+    second: Tail_Good_Evil_30
+  - first:
+      213: 3037964180019708016
+    second: Tail_Good_Evil_31
+  - first:
+      213: -2222109157676113009
+    second: Tail_Good_Evil_32
+  - first:
+      213: -3981504070933335206
+    second: Tail_Good_Evil_33
+  - first:
+      213: -6302956591255055131
+    second: Tail_Good_Evil_34
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -89,7 +194,742 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Tail_Good_Evil_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 188
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad53e9c4bf9b5bb0800000000000000
+      internalID: -4946184166906307162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 188
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141e84a52098cbf50800000000000000
+      internalID: 6898539372422422849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 188
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0f3632b4820f00800000000000000
+      internalID: 1081572761471487450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 188
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1622f748c2780a560800000000000000
+      internalID: 7323001619375661665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 188
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448fa866a36743ba0800000000000000
+      internalID: -6110128801234356156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 188
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae1e22b642eff450800000000000000
+      internalID: 6124862811512118948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 188
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd47efa098c04ff00800000000000000
+      internalID: 1149557587620820187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_7
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 188
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f468167250994e0800000000000000
+      internalID: -1974541294927196302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_8
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 188
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5ef05d48283efa0800000000000000
+      internalID: -5772626790336961115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_9
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 188
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d1030b30fbbf550800000000000000
+      internalID: 6195755734939999573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_10
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 188
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fab0ac8f5a1fa40800000000000000
+      internalID: 5400279916154171174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_11
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 188
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895c9d9d527914050800000000000000
+      internalID: 5783069585344939416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_12
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 188
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9992b68c03b02d0800000000000000
+      internalID: -3311499463651386901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_13
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 188
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e89f838cf5705b20800000000000000
+      internalID: 3121124269167188201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_14
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 188
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09440a2bce2546740800000000000000
+      internalID: 5144327850926556304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_15
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 191
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978415b3d3daaff50800000000000000
+      internalID: 6916030656280610937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_16
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 188
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8b9ecee4c6cdf10800000000000000
+      internalID: 2295828996290099366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_17
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 188
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5648ce7d102de2f80800000000000000
+      internalID: -8129329371997764507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_18
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 188
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ba82218eaac27a0800000000000000
+      internalID: -6400553056686527622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_19
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 189
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa88a284aac398b50800000000000000
+      internalID: 6595869831313655983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_20
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 188
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8c2702d7801dd10800000000000000
+      internalID: 2148507830740764876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_21
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 188
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa15939d0a7740a10800000000000000
+      internalID: 1874754877615853999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_22
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 188
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a4e933c9360020800000000000000
+      internalID: 2307595369726650563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_23
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 188
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8863cd7208d88a960800000000000000
+      internalID: 7613490751633897096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_24
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 188
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85fef467838687a0800000000000000
+      internalID: -6375263604958104177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_25
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 187
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c0aa0bec7e46360800000000000000
+      internalID: 7162104182339144706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554fcf5bcbc0a18a0800000000000000
+      internalID: -6333735921296542635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 41
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd57cbe8beed330800000000000000
+      internalID: 3737683739043814256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_28
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 41
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caccd73ed9b13e610800000000000000
+      internalID: 1649192253488221356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_29
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 41
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007418fe1cf4e1db0800000000000000
+      internalID: -4819326856874342656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_30
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 39
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845a50225ee862710800000000000000
+      internalID: 1668177826756797768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_31
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 38
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0708f6e6354092a20800000000000000
+      internalID: 3037964180019708016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_32
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 38
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83a29c8e7b7921e0800000000000000
+      internalID: -2222109157676113009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_33
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 39
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a533f34742bdeb8c0800000000000000
+      internalID: -3981504070933335206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tail_Good_Evil_34
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 39
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4198fef566788a0800000000000000
+      internalID: -6302956591255055131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
