@@ -1,5 +1,7 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using Cinemachine.Utility;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
@@ -100,7 +102,12 @@ public class Enemy : MonoBehaviour
         toBeDeleted = true;
         gameObject.tag = "Untagged";
         player.GetComponent<Player>().enemyDestroyedEvent.Invoke();
-        Destroy(gameObject);
+
+
+        toBeDeleted = false;
+        transform.position = GameManager.Instance.FindPosToSpawn();
+        gameObject.tag = "Food";
+        isFood = true;
     }
 }
 
