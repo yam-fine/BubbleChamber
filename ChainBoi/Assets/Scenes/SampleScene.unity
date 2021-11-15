@@ -219,11 +219,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 1553682108}
-  spawnPointsParent: {fileID: 755989804}
-  player: {fileID: 1323751518}
-  spawnRadiusFromObj: 0
-  sightRadius: 0
-  validRadius: 0
+  spawnRadiusFromObj: 1
+  sightRadius: 1
+  validRadius: 5
 --- !u!4 &38955936
 Transform:
   m_ObjectHideFlags: 0
@@ -487,7 +485,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 3.1499994, y: 4.3800006, z: -10}
+=======
+  m_LocalPosition: {x: -0.0000009536743, y: 4.1300006, z: -10}
+>>>>>>> 13b6b646ae7e0b2b9e172510f197912e3ac395b0
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1452,7 +1454,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1941064493}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 3.1499994, y: 4.3800006, z: -10}
+=======
+  m_LocalPosition: {x: -0.0000009536743, y: 4.1300006, z: -10}
+>>>>>>> 13b6b646ae7e0b2b9e172510f197912e3ac395b0
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1012723398}
