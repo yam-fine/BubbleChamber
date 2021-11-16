@@ -93,6 +93,13 @@ public class Enemy : MonoBehaviour
         }
     }
 
+    public void Reset() {
+        transform.position = GameManager.Instance.FindPosToSpawn();
+        gameObject.tag = "Food";
+        isFood = true;
+        anim.SetBool("Food", true);
+    }
+
     void TurnToEnemy() {
         gameObject.tag = "Enemy";
         isFood = false;
@@ -114,7 +121,7 @@ public class Enemy : MonoBehaviour
         toBeDeleted = true;
         gameObject.tag = "Untagged";
         player.GetComponent<Player>().enemyDestroyedEvent.Invoke();
-        Destroy(gameObject);
+        Reset();
     }
 }
 

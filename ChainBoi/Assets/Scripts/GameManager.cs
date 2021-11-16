@@ -103,7 +103,7 @@ public class GameManager : MonoBehaviour
     //}
 
     //find available pos to spawn.
-    private Vector3 FindPosToSpawn()
+    public Vector3 FindPosToSpawn()
     {
         Vector3 spawnPosition = (player.transform.position + ((validRadius * Random.insideUnitSphere)));
         GameObject[] allFood = GameObject.FindGameObjectsWithTag("Food");
