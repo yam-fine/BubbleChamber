@@ -50,9 +50,11 @@ public class Enemy : MonoBehaviour
                 anim.SetBool("Food", true);
             }
         }
-        gameObject.tag = "Food";
-        isFood = true;
-        anim.SetBool("Food", true);
+        else {
+            gameObject.tag = "Food";
+            isFood = true;
+            anim.SetBool("Food", true);
+        }
     }
     
     Transform FindClosestTarget()
