@@ -11,10 +11,12 @@ public class MainMenu : MonoBehaviour
     [SerializeField] string sceneToLoad = "SampleScene";
 
     static public int highestScore;
+    GameManager gm;
 
-    private void Awake()
+    private void Start()
     {
-        highestScore = (highestScore < GameManager.score) ? GameManager.score : highestScore;
+        gm = GameManager.Instance;
+        highestScore = (highestScore < gm.Score) ? gm.Score : highestScore;
         hScoreText.GetComponent<TextMeshProUGUI>().text = "Highest Score: " + highestScore;
     }
 

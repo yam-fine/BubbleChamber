@@ -1,24 +1,25 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.Serialization;
 using UnityEngine.SocialPlatforms.Impl;
 using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    [SerializeField] public TMP_Text scoreText;
-    [SerializeField] public GameObject spawnPointsParent;
-    [SerializeField] public Transform player;
-    [SerializeField] public float spawnRadiusFromObj; // spawn outside this radius of all objects (players and enemy)
-    [SerializeField] public float sightRadius; // radius to disable spawns.
-    [SerializeField] public float validRadius; // limit radius from player to spawn.
-    
-    private static TextMeshProUGUI uiscore; // CHANGE FROM STATIC
-    public static int score; // CHANGE FROM STATIC
+    [SerializeField] TMP_Text scoreText;
+    [SerializeField] GameObject enemyPref;
+    [SerializeField] float validRadius; // limit radius from player to spawn.
+
+    private TextMeshProUGUI uiscore; 
+    private int score = 0; 
     private STAGE gameStage;
-    private bool[] spawnsOnBoard;
+    Transform player;
+
+    public int Score { get { return score; } }
     
     private enum STAGE
     {
@@ -42,9 +43,9 @@ public class GameManager : MonoBehaviour
         uiscore = scoreText.GetComponent<TextMeshProUGUI>();
         gameStage = STAGE.TOTURIAL;
         uiscore.text = "Score: 0";
-        score = 0;
-        DisableAllFood();
-        SpawnPoints();
+        //DisableAllFood();
+        //SpawnPoints();
+        player = Player.Instance.transform;
     }
 
     // Update is called once per frame
@@ -53,72 +54,70 @@ public class GameManager : MonoBehaviour
         switch (gameStage)
         {
             case STAGE.TOTURIAL:
-                
+                //todo : 1. one food on board. 
+                //todo : 2. check insight and update.
+
                 
             case STAGE.STAGE1:
                 break;
         }
     }
 
-    public static void IncScore()
+    public void IncScore()
     {
         score++;
         uiscore.text = ("Score: " + score);
     }
 
-    private void DisableAllFood()
-    {
-        for (int i = 0; i < spawnPointsParent.transform.childCount; i++)
-        {
-            spawnPointsParent.transform.GetChild(i).gameObject.SetActive(false);
-        }
-    }
+    //private void DisableAllFood()
+    //{
+    //    for (int i = 0; i < spawnPointsParent.transform.childCount; i++)
+    //    {
+    //        spawnPointsParent.transform.GetChild(i).gameObject.SetActive(false);
+    //    }
+    //}
 
     //spawn new food to the game. assume there is available object to spawn. 
-    private void SpawnPoints()
-    {
+    private void SpawnPoints() {
         Vector3 position = FindPosToSpawn();
-        int indexToSpawn = FindIndexToSpawn();
-        if (indexToSpawn == -1)
-        {
-            Debug.Log("No object to spawn in hierarchy! ");
-        }
-        
-        Transform spawn = spawnPointsParent.transform.GetChild(indexToSpawn);
-        spawn.transform.position = position;
-        spawn.gameObject.SetActive(true);
+        GameObject newFood = Instantiate(enemyPref, position, Quaternion.identity);
     }
 
-    
-    private int FindIndexToSpawn()
-    {
-        for (int i = 0; i < spawnPointsParent.transform.childCount; i++)
-        {
-            if (!spawnPointsParent.transform.GetChild(i).gameObject.activeSelf)
-            {
-                return i;
-            }
-        }
-
-        return -1;
+    private void Reset() {
+        if (Input.GetKeyDown(KeyCode.Escape))
+            SceneManager.LoadScene("SampleScene");
     }
-    
+
+
+    //private int FindIndexToSpawn()
+    //{
+    //    for (int i = 0; i < spawnPointsParent.transform.childCount; i++)
+    //    {
+    //        if (!spawnPointsParent.transform.GetChild(i).gameObject.activeSelf)
+    //        {
+    //            return i;
+    //        }
+    //    }
+
+    //    return -1;
+    //}
+
     //find available pos to spawn.
     private Vector3 FindPosToSpawn()
     {
-        var spawnPosition = (player.transform.position + ((validRadius * Random.insideUnitSphere)));
-        
-        if (Vector3.Distance(spawnPosition, player.transform.position) <= spawnRadiusFromObj)
-        {
-            return FindPosToSpawn();
-        }
+        Vector3 spawnPosition = (player.transform.position + ((validRadius * Random.insideUnitSphere)));
+        GameObject[] allFood = GameObject.FindGameObjectsWithTag("Food");
+        GameObject[] allEnems = GameObject.FindGameObjectsWithTag("Enemy");
+        List<GameObject> allTargets = new List<GameObject>();
+        allTargets.AddRange(allFood.Concat(allEnems));
+        allTargets.Add(player.gameObject);
 
-        for (int i = 0; i < spawnsOnBoard.Length; i++)
-        {
-            if (spawnPointsParent.transform.GetChild(i).gameObject.activeSelf &&
-                Vector3.Distance(spawnPointsParent.transform.GetChild(i).position, spawnPosition)
-                <= spawnRadiusFromObj)
-                return FindPosToSpawn();
+        while (true) {
+            foreach (GameObject go in allTargets) {
+                if (Vector2.Distance(go.transform.position, spawnPosition) < validRadius)
+                    spawnPosition = (player.transform.position + ((validRadius * Random.insideUnitSphere)));
+            }
+            break;
         }
 
         return spawnPosition;
